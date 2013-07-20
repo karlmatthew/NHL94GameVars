@@ -1,6 +1,8 @@
 NHL94GameVars
 =============
 
+Big thanks to smozoma for his help, without him this would have been much harder to accomplish!
+
 PHP class to read the stats out of and NHL94 game state file for use in an online paying community.
 
 
